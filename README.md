@@ -11,7 +11,7 @@ Supports indeterminate values.
 ![ios-example](https://media.giphy.com/media/H7Ao2DguwGV2mmBMb1/giphy.gif) ![android-example](https://media.giphy.com/media/f5jXR281dSMReybp4v/giphy.gif)
 
 -------
-## installation
+## Installation
 ```bash 
 npm instal --save react-native-flexible-checkbox
 

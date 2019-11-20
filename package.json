@@ -27,9 +27,12 @@
   },
   "homepage": "https://github.com/zavin27/react-native-flexible-checkbox#readme",
   "peerDependencies": {
+    "prop-types": ">=15.5.0",
     "react": ">=16.8.x",
     "react-native": ">=0.59.x",
-    "react-native-vector-icons": "^6.6.0",
-    "prop-types": ">=15.5.0"
+    "react-native-vector-icons": "^6.6.0"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.57.0"
   }
 }
