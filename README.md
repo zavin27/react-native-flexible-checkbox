@@ -13,7 +13,7 @@ Supports indeterminate values.
 -------
 ## Installation
 ```bash 
-npm instal --save react-native-flexible-checkbox
+npm install --save react-native-flexible-checkbox
 
 // OR
 
