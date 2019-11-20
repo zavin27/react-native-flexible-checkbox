@@ -1,0 +1,35 @@
+{
+  "name": "react-native-flexible-checkbox",
+  "version": "1.0.0",
+  "description": "A react native flexible checkbox component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zavin27/react-native-flexible-checkbox"
+  },
+  "keywords": [
+    "react-native",
+    "checkbox",
+    "check-box",
+    "check",
+    "box",
+    "indeterminate",
+    "checkbox",
+    "react"
+  ],
+  "author": "Zavin Hussein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zavin27/react-native-flexible-checkbox/issues"
+  },
+  "homepage": "https://github.com/zavin27/react-native-flexible-checkbox#readme",
+  "peerDependencies": {
+    "react": ">=16.8.x",
+    "react-native": ">=0.59.x",
+    "react-native-vector-icons": "^6.6.0",
+    "prop-types": ">=15.5.0"
+  }
+}
